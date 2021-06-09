@@ -1,7 +1,7 @@
 - Aleksej Egorov
 - System engeneer
 - PowerShell lover
-
+\n
 - mail: Egorov.Aleksej.V@gmail.com
 - tg: @Aleksej_Egorov
 
