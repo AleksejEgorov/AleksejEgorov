@@ -6,7 +6,7 @@ PowerShell lover.
 
 
 📧 mail: <Egorov.Aleksej.V@gmail.com>  
-✒️ tg:   [@Aleksej_Egorov](https://t.me/Aleksej_Egorov)
+💬 tg:   [@Aleksej_Egorov](https://t.me/Aleksej_Egorov)
 
 <!---
 AleksejEgorov/AleksejEgorov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
