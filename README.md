@@ -5,7 +5,7 @@ PowerShell lover.
 ---
 
 
-📧 mail: <Egorov.Aleksej.V@gmail.com>  
+📧 mail: <Egorov.Aleksej.V@outlook.com>  
 💬 tg:   [@Aleksej_Egorov](https://t.me/Aleksej_Egorov)
 
 <!---
