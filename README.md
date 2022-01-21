@@ -2,6 +2,12 @@ Aleksej Egorov.
 System engeneer.  
 PowerShell lover.
 
+```text
+Type 'help' to get help.
+
+PS C:\>
+```
+
 ---
 
 
